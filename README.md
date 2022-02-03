@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MystoD3v
 - 👀 I’m interested in SAMP Scripts
-- 🌱 I’m currently learning to be a pro developer on samp and other program
+- 🌱 I’m currently learning to be a developer on samp and other program
 - 💞️ I’m looking to collaborate soon
 - 📫 How to reach me? Secret
 
